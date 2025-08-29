@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "projetobfd",
   "version": "1.0.0",
   "main": "Media.js",
@@ -8,4 +9,16 @@
   "author": "",
   "license": "ISC",
   "description": ""
+=======
+  "name": "projetosbfd_2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 49251a7f7a82e012b65145bf16fd465dd39a190a
 }
